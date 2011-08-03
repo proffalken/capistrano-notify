@@ -1,0 +1,8 @@
+Capistrano Notify
+================
+
+Capistrano-Notify is a framework to enable the sending of deploy notifications from capistrano to various sources.
+
+It is intended to provide a framework to make it easy to extend for other sources.
+
+Initially I intend to provide support for XMPP, Email and REST, however I also hope that others will get involved and provide additional plugins for services such as twitter, basecamp etc.
