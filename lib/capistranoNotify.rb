@@ -1,5 +1,5 @@
 class CapistranoNotify
-    def initalise(username='',password='',target='',message='')
+    def initalize(username,password,target,message)
         @username = username
         @password = password
         @target   = target
